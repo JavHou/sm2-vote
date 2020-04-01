@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b45d1e50-d4bb-45a0-b486-c05a17f7ad60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VQ76PgmaRBL7YbkDBkDMYjNhXA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vote" />
+      <recent name="$PROJECT_DIR$/ecc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.sm2">
+    <configuration name="bitarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sm2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vote/bitarray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exgcd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sm2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vote/exgcd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="residue_field" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sm2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vote/residue_field.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sm2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sm2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vote/sm2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sm2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vote/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sm2" type="Python.DjangoServer" factoryName="Django server">
+      <module name="sm2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="sm2.settings" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.sm2" />
+      <item itemvalue="Python.bitarray" />
+      <item itemvalue="Python.sm2 (1)" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.residue_field" />
+      <item itemvalue="Python.exgcd" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exgcd" />
+        <item itemvalue="Python.residue_field" />
+        <item itemvalue="Python.sm2 (1)" />
+        <item itemvalue="Python.bitarray" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@42ff71dc" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@12f08c89" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@d4111dc" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b45d1e50-d4bb-45a0-b486-c05a17f7ad60" name="Default Changelist" comment="" />
+      <created>1577173288141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577173288141</updated>
+      <workItem from="1577173290791" duration="18321000" />
+      <workItem from="1577364735800" duration="6518000" />
+      <workItem from="1577426635506" duration="236000" />
+      <workItem from="1577447082204" duration="4000" />
+      <workItem from="1577524667992" duration="129000" />
+      <workItem from="1577757448768" duration="4740000" />
+      <workItem from="1582118569125" duration="15000" />
+      <workItem from="1582118603736" duration="3096000" />
+      <workItem from="1582378375131" duration="3714000" />
+      <workItem from="1582427298581" duration="5242000" />
+      <workItem from="1582515205028" duration="3000" />
+      <workItem from="1583325271458" duration="2650000" />
+      <workItem from="1583391635436" duration="1211000" />
+      <workItem from="1583461501067" duration="1791000" />
+      <workItem from="1583474615458" duration="1248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="36" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577173364651">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="36" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577173364651" />
+    <state x="643" y="271" width="624" height="557" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582118578189">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state x="643" y="271" width="624" height="557" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.22.1920.1058@0.22.1920.1058" timestamp="1582118578189" />
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1577343203109">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577343203109" />
+    <state x="456" y="249" width="424" height="516" key="FileChooserDialogImpl" timestamp="1583474331915">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state x="456" y="249" width="424" height="516" key="FileChooserDialogImpl/0.21.1920.1059@0.21.1920.1059" timestamp="1583474331915" />
+    <state width="994" height="270" key="GridCell.Tab.0.bottom" timestamp="1582457388841">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state width="1920" height="350" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577766279752" />
+    <state width="994" height="270" key="GridCell.Tab.0.bottom/0.22.1920.1058@0.22.1920.1058" timestamp="1582457388841" />
+    <state width="994" height="270" key="GridCell.Tab.0.center" timestamp="1582457388840">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state width="1920" height="350" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577766279751" />
+    <state width="994" height="270" key="GridCell.Tab.0.center/0.22.1920.1058@0.22.1920.1058" timestamp="1582457388840" />
+    <state width="994" height="270" key="GridCell.Tab.0.left" timestamp="1582457388840">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state width="1920" height="350" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577766279750" />
+    <state width="994" height="270" key="GridCell.Tab.0.left/0.22.1920.1058@0.22.1920.1058" timestamp="1582457388840" />
+    <state width="994" height="270" key="GridCell.Tab.0.right" timestamp="1582457388840">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state width="1920" height="350" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577766279751" />
+    <state width="994" height="270" key="GridCell.Tab.0.right/0.22.1920.1058@0.22.1920.1058" timestamp="1582457388840" />
+    <state width="1920" height="361" key="GridCell.Tab.1.bottom" timestamp="1577364719148">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="361" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577364719148" />
+    <state width="1920" height="361" key="GridCell.Tab.1.center" timestamp="1577364719147">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="361" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577364719147" />
+    <state width="1920" height="361" key="GridCell.Tab.1.left" timestamp="1577364719146">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="361" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577364719146" />
+    <state width="1920" height="361" key="GridCell.Tab.1.right" timestamp="1577364719147">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="361" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577364719147" />
+    <state x="813" y="192" key="SettingsEditor" timestamp="1582378510939">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state x="813" y="174" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577524789566" />
+    <state x="813" y="192" key="SettingsEditor/0.22.1920.1058@0.22.1920.1058" timestamp="1582378510939" />
+    <state x="367" y="407" width="474" height="310" key="cloudConfig.SelfSettingsDialog" timestamp="1577417803668">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="367" y="407" width="474" height="310" key="cloudConfig.SelfSettingsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577417803668" />
+    <state x="543" y="201" width="824" height="682" key="com.intellij.database.dbimport.ImportDialog" timestamp="1577759421586">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="543" y="201" width="824" height="682" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577759421586" />
+    <state x="439" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1583461502422">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state x="439" y="379" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577757449752" />
+    <state x="439" y="392" key="com.intellij.ide.util.TipDialog/0.21.1920.1059@0.21.1920.1059" timestamp="1583461502422" />
+    <state x="439" y="393" key="com.intellij.ide.util.TipDialog/0.22.1920.1058@0.22.1920.1058" timestamp="1582515205645" />
+    <state x="226" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1582380785646">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state x="226" y="212" width="672" height="678" key="search.everywhere.popup/0.22.1920.1058@0.22.1920.1058" timestamp="1582380785646" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sm2$test.coverage" NAME="test Coverage Results" MODIFIED="1577350082212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vote" />
+    <SUITE FILE_PATH="coverage/sm2$residue_field.coverage" NAME="residue_field Coverage Results" MODIFIED="1582380607500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vote" />
+    <SUITE FILE_PATH="coverage/sm2$sm2.coverage" NAME="sm2 Coverage Results" MODIFIED="1577348002080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ecc" />
+    <SUITE FILE_PATH="coverage/sm2$views.coverage" NAME="views Coverage Results" MODIFIED="1577348397271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vote" />
+    <SUITE FILE_PATH="coverage/sm2$bitarray.coverage" NAME="bitarray Coverage Results" MODIFIED="1577372609064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vote" />
+    <SUITE FILE_PATH="coverage/sm2$exgcd.coverage" NAME="exgcd Coverage Results" MODIFIED="1582380621577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vote" />
+    <SUITE FILE_PATH="coverage/sm2$sm2__1_.coverage" NAME="sm2 (1) Coverage Results" MODIFIED="1577372627026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vote" />
+  </component>
+</project>
